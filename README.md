@@ -16,7 +16,7 @@ Finding Bug & Fix: The main challenge was configuring SQLite with Spring Boot.
 This was resolved by adding the correct SQLite JDBC dependency,and database configuration.
 
 Output Screenshort:-
-![Screenshot.png](../../../Pictures/Screenshot.png)
+![Screenshot.png](../../Pictures/Screenshot.png)
 
 Future improvements:-
 With more time, I would add update and delete functionality and improve ui.
